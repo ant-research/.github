@@ -11,7 +11,7 @@ The Ant Research is committed to open source and has released numerous kinds of 
 ## Interactive artificial Intelligence Lab
 Focusing on the research of fundcation models in computer vision and NLP, as well as developing a general artificial intelligence algorithms, including key technologies for human-computer interaction such as content generation, multimodal understanding, and digital human technology.
 
-- [edicho](https://github.com/ant-research/edicho): Consistent Image Editing in the Wild
+- [Edicho](https://github.com/ant-research/edicho): Consistent Image Editing in the Wild
 - [LeviTor](https://github.com/ant-research/LeviTor): 3D Trajectory Oriented Image-to-Video Synthesis
 - [lumos](https://github.com/ant-research/lumos): Learning Visual Generative Priors without Text
 - [MagicQuill](https://github.com/ant-research/MagicQuill): An Intelligent Interactive Image Editing System
