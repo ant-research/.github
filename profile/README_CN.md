@@ -9,7 +9,7 @@
 
 ## 交互智能实验室
 聚焦视觉和NLP基础模型研究，开发通用人工智能算法架构，包括内容生成、多模态理解、数字人技术等人机交互关键技术。
-- [edicho](https://github.com/ant-research/edicho)
+- [Edicho](https://github.com/ant-research/edicho)
 - [LeviTor](https://github.com/ant-research/LeviTor)
 - [lumos](https://github.com/ant-research/lumos)
 - [MagicQuill](https://github.com/ant-research/MagicQuill)
