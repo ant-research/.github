@@ -17,6 +17,6 @@ Focusing on the research of fundcation models in computer vision and NLP, as wel
 - [MagicQuill](https://github.com/ant-research/MagicQuill): An Intelligent Interactive Image Editing System
 - [CoDeF](https://github.com/ant-research/CoDeF): Content Deformation Fields for Temporally Consistent Video Processing
 
-### Programming Languages & Compilers Lab
+## Programming Languages & Compilers Lab
 Compiler infrastructure for domain-specific architectures and languages, supporting privacy computing acceleration chips, and developing integrated software and hardware optimization capabilities.
 - [ace-compiler](https://github.com/ant-research/ace-compiler): a Fully Homomorphic Encryption (FHE) Compiler Framework designed for automating Neural Network (NN) Inference
